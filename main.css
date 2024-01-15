@@ -1,0 +1,267 @@
+*{
+	padding:0px;
+	margin: 0px;
+}
+nav {
+	float: right;
+	background-color: black;
+	width: 550px;
+	height: 50px;
+}
+nav ul li {
+	list-style-type: none;
+	width: 150px;
+	float: left;
+}
+nav ul li a {
+	text-decoration: none;
+	color: white;
+	display: block;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	line-height: 50px;
+	font-family: sans-serif;
+}
+#currentpage a {
+	background-color: white;
+	color: grey;
+}
+nav ul li a:hover {
+	background-color: #262626;
+}
+#divPic {
+    overflow: hidden;
+    margin-left: auto;
+    margin-right: auto;
+    width: 1000;
+    background-image: url('./airconditioning1.jpg');
+    height: 550px;
+    margin-top: 0px;
+    box-shadow: 0 0 10px 6px rgba(0,0,0,.3); 
+}
+    #divMain {
+    overflow: hidden;
+    margin-left: auto;
+    margin-right: auto;
+    width: 1000;
+    background-color: #d6d6d6;
+    height: 350px;
+    margin-top: 0px;
+    box-shadow: 0 0 10px 6px rgba(0,0,0,.3); 
+}
+    #divMain2 {
+    overflow: hidden;
+    margin-left: auto;
+    margin-right: auto;
+    width: 1000;
+    background-color: #d6d6d6;
+    height: 750px;
+    margin-top: 0px;
+    /*box-shadow: 0 0 10px 6px rgba(0,0,0,.3);*/ 
+}
+.float {
+	margin-left: auto;
+	margin-right: auto;
+}
+.body {
+	margin: 0px;
+	background-color: #999999;
+}
+#divBlack {
+    overflow: hidden;
+    margin-left: auto;
+    margin-right: auto;
+    width: 1000;
+    background-color: #d6d6d6;
+    height: 200px;
+    margin-top: 0px;
+    /*box-shadow: 0 0 10px 6px rgba(0,0,0,.3);*/
+}
+
+
+
+#blackBannerO{
+	background-color: black;
+    width: 269px;
+    height: 300px;
+    margin-left: 50px;
+    float: left;
+    position: absolute;
+
+
+}
+#blackBannerT {
+	background-color: black;
+	opacity: 0.7;
+    width: 269px;
+    height: 400px;
+    margin-left: 50px;
+    color: white;
+}
+#blackBannerTestimonials {
+	background-color: black;
+	opacity: 0.7;
+    width: 269px;
+    height: 150px;
+    margin-left: 50px;
+    color: white;
+}
+#whiteBannerT {
+	background-color: white;
+	opacity: 0.9;
+    width: 600px;
+    height: 300px;
+    margin-left: 319px;
+    float: left;
+    position: absolute;
+
+
+}
+#whiteBannerTestimonials {
+	background-color: white;
+	opacity: 0.9;
+    width: 900px;
+    height: 850px;
+    margin-left: 50px;
+    position: absolute;
+    float: right;
+
+
+}
+#whiteBannerT3 {
+	background-color: white;
+	opacity: 0.9;
+    width: 269px;
+    height: 430px;
+    margin-left: 50px;
+    float: left;
+    position: absolute;
+
+
+}
+
+#titleLogo {
+	text-align: center;
+	font-size: 46px;
+	font-family: 'Oswald';
+	padding: 10px;
+	color: #fff;
+    text-shadow: 1px 2px 1px rgba(0,0,0,.8);
+    letter-spacing: 0;
+    text-transform: uppercase;
+}
+#titleLogoSmall {
+	text-align: center;
+	font-size: 23px;
+	font-family: 'Oswald';
+	color: #fff;
+    text-shadow: 1px 2px 1px rgba(0,0,0,.8);
+    letter-spacing: 0
+}
+#whiteText {
+	color: white;
+	font-family: sans-serif;
+	padding: 15px;
+	font-size: 13px;
+	margin-left: 70px;
+}#whiteText2 {
+	color: white;
+	font-family: sans-serif;
+	padding: 15px;
+	font-size: 13px;
+	margin-left: 70px;
+}
+#whiteText3 {
+	color: white;
+	font-family: sans-serif;
+	padding: 15px;
+	font-size: 13px;
+	margin-left: 15px;
+}
+#whiteTextHeader {
+	color: white;
+	font-family: sans-serif;
+	font-size: 23px;
+	margin-left: 70px;
+}
+#whiteTextHeader2 {
+	color: white;
+	font-family: sans-serif;
+	font-size: 23px;
+	margin-left: 70px;
+}
+#whiteTextHeader3 {
+	color: white;
+	font-family: sans-serif;
+	font-size: 23px;
+	padding: 10px; 
+	margin-left: 20px;
+	margin-top: 15px;
+}
+#greyTextHeader {
+	color: grey;
+	font-family: sans-serif;
+	font-size: 23px;
+	padding: 10px;
+	margin-left: 20px;
+	margin-top: 15px;
+}
+#greyTextHeader2 {
+	color: grey;
+	font-family: sans-serif;
+	font-size: 23px;
+	padding: 20px;
+	margin-left: 10px;
+}
+#greyText {
+	color: grey;
+	font-family: sans-serif;
+	font-size: 13px;
+	padding-right: 50px;
+	margin-left: 30px;
+}
+#img {
+	height: 150px;
+	width: 200px;
+	padding: 5px 20px 20px 20px;
+}
+.imageLeft {
+	float: left;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+.imageRight{
+	float: right;
+	margin-right: 58px;
+}
+#divPic2 {
+    overflow: hidden;
+    margin-left: auto;
+    margin-right: auto;
+    width: 1000;
+    background-image: url('./airconditioning1.jpg');
+    height: 150px;
+    margin-top: 0px;
+    /*box-shadow: 0 0 10px 6px rgba(0,0,0,.3);*/
+}
+.image2 {
+	float: left;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+#img2 {
+	height: 300px;
+	width: 400px;
+	margin-bottom: 10px;
+	margin-right: 20px; 
+	margin-left: 30px;
+}
+#divBlack3 {
+	background-color: black;
+	color: white;
+	font-family: sans-serif;
+	width: 200px;
+	height: 200px;
+	margin-left: 319px
+}
